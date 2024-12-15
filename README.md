@@ -2,6 +2,9 @@
 
 This R project creates various visualizations to analyze economic indicators across Southeast Asian countries (Indonesia, Malaysia, Philippines, Thailand, and Vietnam).
 
+![image](https://github.com/user-attachments/assets/f467f4d7-66ae-4a3b-8bde-ac9655d4dc08)
+
+
 ## Overview
 
 The project combines multiple datasets to visualize relationships between:
@@ -56,15 +59,21 @@ A multivariate visualization showing relationships between:
 
 ## Usage
 
-1. Ensure all required libraries are installed:   ```R
-   install.packages(c("dplyr", "readr", "ggplot2", "tidyverse", "viridis", "GGally"))   ```
+1. Ensure all required libraries are installed:
 
-2. Update the file paths in the code to match your local dataset locations:   ```R
+   install.packages(c("dplyr", "readr", "ggplot2", "tidyverse", "viridis", "GGally"))
+
+2. Update the file paths in the code to match your local dataset locations:
+
    pip_dataset <- read_csv("path/to/pip_dataset.csv")
+   
    inequality_dataset <- read_csv("path/to/pip-inequality-explorer.csv")
+   
    gdp_dataset2 <- read_csv("path/to/gdp-per-capita-worldbank.csv")
+   
    eduexp_dataset <- read_csv("path/to/total-government-expenditure-on-education-gdp.csv")
-   merchexp_dataset <- read_csv("path/to/merchandise-exports-gdp-cepii.csv")   ```
+   
+   merchexp_dataset <- read_csv("path/to/merchandise-exports-gdp-cepii.csv")
 
 3. Run the script to generate all visualizations
 
