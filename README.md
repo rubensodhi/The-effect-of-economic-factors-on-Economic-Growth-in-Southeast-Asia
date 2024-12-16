@@ -37,17 +37,26 @@ The following CSV files are needed:
 ### 1. GDP Per Capita Trends (Line Graph)
 Shows the GDP per capita trends for Southeast Asian countries from 1984 to 2021, allowing for comparison of economic growth patterns.
 
+![image](https://github.com/user-attachments/assets/c680a713-6ec1-4eb0-bce7-74a57e06e432)
+
+
 ### 2. Economic Indicators Bubble Chart
 A three-dimensional visualization comparing:
 - GDP per capita (x-axis)
 - Poverty rates (y-axis)
 - Income inequality (bubble size)
 
+![image](https://github.com/user-attachments/assets/664c3182-6e0a-400d-a5aa-d8b43161b7aa)
+
+
 ### 3. Income Distribution Area Chart
 Displays income distribution across different deciles for Thailand, overlaid with the Gini coefficient trend line. This visualization shows:
 - Income share distribution across deciles
 - Changes in income inequality over time
 - Gini coefficient trend
+
+![image](https://github.com/user-attachments/assets/f409a898-158b-4bb3-a7b2-5734496e2331)
+
 
 ### 4. Parallel Coordinate Plot
 A multivariate visualization showing relationships between:
@@ -56,6 +65,9 @@ A multivariate visualization showing relationships between:
 - Merchandise exports
 - Poverty rates
 - Gini coefficient
+
+![image](https://github.com/user-attachments/assets/f5b9b790-b810-426f-8445-4b79ccddb3d2)
+
 
 ## Usage
 
